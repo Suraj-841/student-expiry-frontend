@@ -41,3 +41,6 @@ export default function StudentCard({ student, onUpdate, onReplace, onVacate }) 
     </div>
   );
 }
+
+
+
